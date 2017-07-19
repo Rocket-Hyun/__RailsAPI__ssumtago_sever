@@ -1,24 +1,5 @@
-# README
+# 인공지능 썸타고 어플리케이션 Restful API 서버
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 툴: Ruby on Rails 5 API
+### API: 페이스북 로그인 API, RabbitMQ, JWT, FCM, 몽고DB
+#### 설명: 제작 중
